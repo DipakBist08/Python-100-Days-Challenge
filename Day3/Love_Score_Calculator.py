@@ -17,9 +17,9 @@ love = l + o + v + e
 
 love_score=int(str(true) + str(love))
 # print(f"Your Love Score is:{love_score}")
-if love_score <10 or love_score >90:
-    print(f"Your Love Socre is {love_score}, You guys are perfect for each other")
-elif love_score>=40 and love_score<=50:
-    print(f"You Love Score is:{love_score}, You have change to be together")
+if (love_score < 10) or (love_score > 90):
+    print(f"Love Score is: {love_score}, Break-up Sure Hunx Bro!!!")
+elif (love_score >= 40) and (love_score<=50):
+    print(f"Love S core is : {love_score}, Khi din ko churifuri tw ho ni ")
 else:
-    print(f"Your Love Score is :{love_score} ") 
+    print(f"Your Love Score is :{love_score}, Ramree KT Pako raixs Mula!! Xodnu hunna hai ")
