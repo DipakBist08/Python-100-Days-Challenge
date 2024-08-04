@@ -10,3 +10,4 @@ num_item=len(names)
 random_choice=random.randint(0,num_item-1)
 who_will_pay_bill=names[random_choice]
 print(who_will_pay_bill + " is going to pay bill.")
+
