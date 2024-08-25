@@ -7,7 +7,8 @@ for numbers in range(0,101):
         print("Fuzz")
     elif numbers % 5 == 0:
         print("Buzz")
-    # else:
-    #     print("Invalid Input!!!!")
+        # If You take Input Form User
+    else:
+        print("Invalid Input!!!!")
 
 
