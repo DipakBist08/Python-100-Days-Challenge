@@ -1,2 +1,4 @@
 .idea/dbnavigator.xml
 .idea/git_toolbox_blame.xml
+__pycache__/
+*.pyc
