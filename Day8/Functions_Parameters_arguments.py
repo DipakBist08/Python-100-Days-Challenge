@@ -4,5 +4,6 @@ def UserInfo(name): #inside (name) is parameter means variable
     print(f"Nice to Meet You {name}.See You Soon :)")
 
 UserInfo("Deepak") # Argument provided, and it will give the result when function is call. Basically Argument means values.
+UserInfo("David") # Likewise you can pass Arguments as you needed
 
 
